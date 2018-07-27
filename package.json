@@ -1,0 +1,23 @@
+{
+  "name": "practice-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saramagdits/practice-site.git"
+  },
+  "author": "Sara Magdits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saramagdits/practice-site/issues"
+  },
+  "homepage": "https://github.com/saramagdits/practice-site#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
